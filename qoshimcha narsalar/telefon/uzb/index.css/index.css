@@ -1,0 +1,88 @@
+
+
+
+
+@media screen and (max-width: 1000px) {
+.fon-rasmlar{
+  width: 100%;
+  height: 1130px;
+  position: absolute;
+  left: 0px;
+    top: 140px;
+}
+ } 
+@media screen and (max-width: 1000px) {
+    .hoverlay {
+    height: 100%;
+    width: 0%;
+    position:fixed;
+    z-index: 1;
+    top: 0%;
+ left: -30%;
+    background-color: #262626;
+
+    overflow-x:hidden; ;
+    transition: 0.7s;
+
+}
+}
+ 
+
+    @media screen and (max-width: 1000px) {
+.knopkalani-top-leftini-boshqarish{
+  font-size: 5em;
+  position: relative;
+  left:38.5%;
+top: 100px;
+}}
+.overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #B22222;
+border-radius: 15px;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  -webkit-transform:scale(0);
+  transition: 0.4s ease;
+  opacity: 0.7;
+
+}
+
+.knopkalani-top-leftini-boshqarish:hover .overlay {
+  transform: scale(1)
+}
+
+
+
+.kirish-oyna{
+  width: 100%;
+  height: 600px;
+  background-color: black;
+  position: absolute;
+  top: 175px;
+  left: 0px;
+
+}
+@media screen and (max-width: 1000px) {
+.kirish-oyna{
+  width: 100%;
+  height: 600px;
+background-color:black;
+  position: absolute;
+  top: 1755px;
+  left: 0px;
+
+}}
+
+
+#hammasi{
+  transition: 0.7s;
+}
+#almashuvchi-fon{
+  transition: 0.7s;
+}
+
+

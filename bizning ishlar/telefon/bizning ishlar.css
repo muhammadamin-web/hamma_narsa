@@ -1,0 +1,73 @@
+
+@media screen and (max-width: 1000px) {
+.almashuvchi-fon{
+height: 600px;
+
+position: relative;
+top: 150px;
+}
+}
+@media screen and (max-width: 1000px) {
+.bizning-ishlar-hammasi-bitta-divda{
+	width: 100%;
+	height: auto;
+	position: absolute;
+	top: 1260px;
+	left: 0px; 
+	background-color: #202020;
+}
+}
+@media screen and (max-width: 1000px) {
+.bizning-loyihalar-kirish-soz{
+font-size: 80px;
+color: white;
+margin-top: 30px;
+}
+}
+@media screen and (max-width: 1000px) {
+.namuna{
+width: 80%;
+height: 500px;
+margin: 50px 10%;
+background-color: white;
+text-decoration: none;
+background-color: #525252;
+border-radius: 0px 0px 30px 30px;
+}
+}
+@media screen and (max-width: 1000px) {
+.namunalar{
+position: relative;
+text-decoration: none;
+}
+}
+@media screen and (max-width: 1000px) {
+.korib-chiqish{
+font-size: 85px;
+color: #DCDDDD;
+text-decoration: none;
+
+text-align: center;
+left: 30%;
+}
+}
+@media screen and (max-width: 1000px) {
+.web-sayt-nomi{
+font-size: 70px;
+text-align: center;
+
+text-decoration: none;
+color: white;
+opacity: 0.8;
+margin-top: -70px;
+
+
+}
+}
+@media screen and (max-width: 1000px) {
+.namuna-rasm{
+width: 100%;
+height: 80%;
+
+}
+}

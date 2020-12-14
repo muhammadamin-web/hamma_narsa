@@ -1,0 +1,229 @@
+ @media screen and (max-width: 1000px) {
+.bir-sahifali-sayt-rasm-soz{
+width: 100%;
+height: 1300px;
+position: absolute;
+left: 0px;
+top: 85px;
+
+}}
+@media screen and (max-width: 1000px) {
+.kirish-rasm{
+  width: 100%;
+  height: 1300px;
+}}
+@media screen and (max-width: 1000px) {
+.rasm-usti-soz{
+  z-index: 1;
+  position: absolute;
+  top: 200px;
+  font-size: 60px;
+  color: #FAFAFA;
+  text-align: center;
+}}
+@media screen and (max-width: 1000px) {
+.namunalar{
+  width: 100%;
+  height: 2000px;
+  background-color: black;
+  margin-top: 1375px;
+  margin-left: 0px;
+  position: absolute;
+  left: 0px;
+}
+}
+@media screen and (max-width: 1000px) {
+.namunalar-soz{
+  font-size: 70px;
+  color: white;
+}
+}
+@media screen and (max-width: 1000px) {
+.bir-sahifa-namuna1{
+  width: 80%;
+  height: 500px;
+  position: absolute;
+  left: 10%;
+  top: 150px;
+}
+}
+@media screen and (max-width: 1000px) {
+.bir-sahifa-namuna2{
+  width: 80%;
+  height: 500px;
+  position: absolute;
+  left: 10%;
+  top: 750px;
+}
+}
+@media screen and (max-width: 1000px) {
+.bir-sahifa-namuna3{
+  width: 80%;
+  height: 500px;
+  position: absolute;
+  left: 10%;
+  top: 1350px;
+}
+}
+@media screen and (max-width: 1000px) {
+.web-sahifa-tarkibi{
+width: 100%;
+height: 2640px;
+background-color: #2E2E2E;
+position: absolute;
+top: 3380px;
+left: 0px;
+}
+}
+@media screen and (max-width: 1000px) {
+.web-sahifa-tarkibi-soz{
+font-size: 70px;
+color: white;
+margin-top: 20px;
+font-family: arizon;
+margin-left: 0.1%;
+margin-right: 0%;
+}
+}
+@media screen and (max-width: 1000px) {
+.tarkib-bonus-oynasi{
+width: 80%;
+height: 1600px;
+margin-left: 10%;
+margin-top: 100px;
+background-color: #2E2E2E;
+border-radius: 30px;
+box-shadow: 0px 10px 60px 40px #56595B;
+}
+}
+
+
+@media screen and (max-width: 1000px) {
+.nuqtalar{
+width: 30px;
+height: 30px;
+border-radius: 50%;
+background-color: white;
+
+margin-left: 27px;
+
+margin-top: 115px;
+}
+}
+@media screen and (max-width: 1000px) {
+.nuqtalar4{
+width: 30px;
+height: 30px;
+border-radius: 50%;
+background-color: white;
+
+margin-left: 27px;
+
+margin-top: 300px;
+}
+}
+@media screen and (max-width: 1000px) {
+.hizmatlar-gaplar{
+font-size: 50px;
+margin-top: 4%;
+margin-left: 15%;
+font-family: arizon;
+color: white;
+position: unset;
+top: 150px;
+}
+}
+
+@media screen and (max-width: 1000px) {
+.ajratuvchi-chiziq{
+width: 95%;
+height: 2px;
+background-color: white;
+margin-left: 2.5%;
+margin-top:100px;
+}
+}
+@media screen and (max-width: 1000px) {
+.bonuslar{
+margin-top: 50px;
+}
+}
+@media screen and (max-width: 1000px) {
+.bonuslar-soz{
+font-size: 100px;
+color: white;
+font-family: marlbo;
+
+}
+}
+@media screen and (max-width: 1000px) {
+.bonuslar-gaplar{
+font-size: 50PX;
+margin-top: 50px;
+color: white;
+
+}
+}
+@media screen and (max-width: 1000px) {
+.sovga-ikon{
+width: 50px;
+height: 50px;
+margin-left: 15px;
+}
+}
+@media screen and (max-width: 1000px) {
+.bir-sahifa-narxi{
+width: 100%;
+height: 400px;
+margin-left: 0%;
+margin-top: 50px;
+background-color: #2E2E2E;
+
+}
+}
+@media screen and (max-width: 1000px) {
+.narxi-soz{
+	font-size: 80px;
+	color: white;
+}
+}
+@media screen and (max-width: 1000px) {
+.bir-sahifa-narxi{
+width: 80%;
+height: 500px;
+
+position: absolute;
+top: 1900px;
+left: 10%;
+background-color: #2E2E2E;
+border-radius: 30px;
+box-shadow: 0px 10px 60px 40px #56595B;
+}
+}
+@media screen and (max-width: 1000px) {
+.yakun-sayt-haritasi{
+position: absolute;
+top: 5850px;
+}
+}
+@media screen and (max-width: 1000px) {
+.narx-korsatilagan-oyna{
+width: 80%;
+margin-left: 10%;
+margin-top: 50px;
+border: 5px white dotted;
+height: 170px;
+}
+}
+@media screen and (max-width: 1000px) {
+.narxi-raqam{
+font-size: 46px;
+color: white;
+text-align: center;
+}
+}@media screen and (max-width: 1000px) {
+.nuqtalar-div{
+position: absolute;
+top: 185px;
+}
+}

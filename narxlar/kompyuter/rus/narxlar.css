@@ -1,0 +1,247 @@
+
+.narxlar-kotta-oyna{
+	width: 100%;
+	height: 400px;
+	position: absolute;
+	left: 0px;
+	top: 670px;
+}
+
+
+.yaratish-kirish-soz{
+	font-size: 100px;
+	text-align: center;
+	width: 100%;
+	height:150px;
+	background-color: black;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	color: 0px;
+	color: white;
+	font-family: marlbo;
+}
+.turlari-kirish-soz{
+width: 100%;
+position: absolute;
+left: 0px;
+top: 100px;
+}
+
+
+
+.yaratish-kirish-soz{
+	font-size: 100px;
+	text-align: center;
+	width: 100%;
+	height:151px;
+	background-color: #2E2E2E;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	color: 0px;
+	color: white;
+	font-family: marlbo;
+}
+
+
+.turlari-kirish-soz{
+width: 100%;
+position: absolute;
+left: 0px;
+top: -100px;
+height: 100px;
+background-color: #3B3B3B;
+color: white;
+font-size: 90px;
+text-align: center;
+font-family: marlbo;
+}
+
+
+.sayt-turlari{
+width: 100%;
+position: absolute;
+left: 0px;
+top: 850px;
+height: 1540px;	
+background-color: #2E2E2E;
+padding-bottom: 50px;
+}
+
+.accordion-viztka {
+  background-color: #EEEEEE;
+  color: #444;
+  cursor: pointer;
+  height: 400px;
+  width: 20%;
+  border: none;
+  text-align: center;
+  outline: none;
+  font-size: 15px;
+  transition: 0.4s;
+border-radius: 10px;
+margin-left: 4%;
+margin-top: 30px;
+}
+.accordion-bir-sahifa {
+  background-color: #EEEEEE;
+  color: #444;
+  cursor: pointer;
+  height: 400px;
+  width: 20%;
+  border: none;
+  text-align: center;
+  outline: none;
+  font-size: 15px;
+  transition: 0.4s;
+border-radius: 10px;
+position: absolute;
+top: 30px;
+margin-left: 4%;
+
+}
+.accordion-kompaniya {
+    background-color: #EEEEEE;
+  color: #444;
+  cursor: pointer;
+  height: 400px;
+  width: 20%;
+  border: none;
+  text-align: center;
+  outline: none;
+  font-size: 15px;
+  transition: 0.4s;
+border-radius: 10px;
+position: absolute;
+top: 30px;
+margin-left: 28%;
+}
+.accordion-internet-dokon {
+  background-color: #EEEEEE;
+  color: #444;
+  cursor: pointer;
+  height: 400px;
+  width: 20%;
+  border: none;
+  text-align: center;
+  outline: none;
+  font-size: 15px;
+  transition: 0.4s;
+border-radius: 10px;
+position: absolute;
+top: 30px;
+margin-left: 52%;
+}
+
+
+	.active, .accordion:hover {
+  background-color: #ccc;
+}
+
+.panel-vizitka {
+  padding: 0px 16px;
+  background-color: #484848;
+  max-height: 0;
+  overflow: hidden;
+  left: -30px;
+  transition: max-height 0.5s ease-out;
+  font-size: 30px;
+  width: 22%;
+  position: absolute;
+  top: 450px;
+  text-align: center;
+  border-radius: 0px 0px 30px 30px;
+  color: #BFBFBF;
+  margin-left: 5%;
+}
+.panel-bir-sahifa {
+  padding: 0px 16px;
+  background-color: #484848;
+  max-height: 0;
+  overflow: hidden;
+  
+  transition: max-height 0.5s ease-out;
+  font-size: 30px;
+  width: 22%;
+  position: absolute;
+  top: 450px;
+  text-align: center;
+  border-radius: 0px 0px 30px 30px;
+  color: #BFBFBF;
+  margin-left: 27%;
+}
+.panel-kompaniya {
+  padding: 0px 16px;
+  background-color: #484848;
+  max-height: 0;
+  overflow: hidden;
+  left: 44.5%;
+  position:absolute;
+  transition: max-height 0.5s ease-out;
+  font-size: 30px;
+  width: 22%;
+  top: 450px;
+  margin: 0px 0px 0px 90px;
+  text-align: center;
+  border-radius: 0px 0px 30px 30px;
+  color: #BFBFBF;
+}
+.panel-internet-dokon {
+  padding: 0px 16px;
+  background-color: #484848;
+  max-height: 0;
+  overflow: hidden;
+  left: 68.5%;
+  position:absolute;
+  transition: max-height 0.5s ease-out;
+  font-size: 30px;
+  width: 22%;
+  top: 450px;
+  margin: 0px 0px 0px 90px;
+  text-align: center;
+  border-radius: 0px 0px 30px 30px;
+  color: #BFBFBF;
+}
+.sayt-turi-rasm{
+width: 50%;
+height: 50%;
+}
+
+
+.sayt-turi-ikonka-soz{
+font-size: 40px;
+}
+
+
+
+.buyurtma-berish {
+  padding: 10px 2px;
+  background-color: grey;
+ font-family: marlbo;
+  font-size: 23px;
+  width: 80%;
+  color: black;
+  text-decoration: none;
+border-radius: 30px;
+  text-align: center;
+ 
+  position: absolute;
+  bottom: 0px;
+  right: 9%;
+}
+
+
+.yakun-sayt-haritasi{
+position: absolute;
+margin-top: 50px;
+top: none;
+}
+
+
+
+.active, .accordion:hover {
+  background-color: #ccc;
+}
+
+

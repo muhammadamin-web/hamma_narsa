@@ -1,0 +1,136 @@
+
+.bizning-ishlar {
+    font-family: 'Roboto', sans-serif;
+}
+@media screen and (max-width: 1000px) {
+.bizning-ishlar{
+width: 100%;
+padding: 100px 5%;
+background-color: #191919;
+position: absolute;
+top: 2950px;
+left: 0px;
+height: 3000px;
+}
+}
+@media screen and (max-width: 1000px) {
+.bizning-ishlar-kirish-soz{
+font-size: 90px;
+text-align: center;
+color: white;
+margin-top: -100px;
+}
+}
+@media screen and (max-width: 1000px) {
+.birinchi-ish-sweets{
+width: 98%;
+height: 600px;
+margin-left: 1%;
+margin-top: 60px;
+background-color: #252627;
+border-radius: 20px;
+}
+}
+@media screen and (max-width: 1000px) {
+.sweets-sayti-sozi{
+font-size: 50px;
+color: #B1253F;
+position: relative;
+top: 20px;
+left: 20px;
+}}
+@media screen and (max-width: 1000px) {
+.sweets-sayti-kompyuter-rasmi{
+width: 100%;
+height: 100%;
+margin-top: 0px;
+border-radius: 0px 0px 20px 20px;
+}
+}
+@media screen and (max-width: 1000px) {
+.sweets-sayti-telefon-rasmi{
+width: 250px;
+height: 400px;
+position: relative;
+top: -460px;
+left: 600px;
+}
+}
+
+
+
+@media screen and (max-width: 1000px) {
+.ikkinchi-ish-zakaz-tort{
+width: 98%;
+height: 600px;
+margin-left: 1%;
+margin-top: 310px;
+background-color: #252627;
+border-radius: 20px;
+}
+}
+@media screen and (max-width: 1000px) {
+.zakaz-tort-sayti-sozi{
+font-size: 50px;
+color: #B1253F;
+position: relative;
+top: 20px;
+left: 20px;
+}}
+@media screen and (max-width: 1000px) {
+.zakaz-tort-sayti-kompyuter-rasmi{
+width: 100%;
+height: 100%;
+margin-top: 0px;
+border-radius: 0px 0px 20px 20px;
+}
+}
+@media screen and (max-width: 1000px) {
+.zakaz-tort-sayti-telefon-rasmi{
+width: 250px;
+height: 400px;
+position: relative;
+top: -460px;
+left: 600px;
+}
+}
+
+
+
+
+@media screen and (max-width: 1000px) {
+.uchinchi-ish-mebel-sayt{
+width: 98%;
+height: 600px;
+margin-left: 1%;
+margin-top: 360px;
+background-color: #252627;
+border-radius: 20px;
+}
+}
+@media screen and (max-width: 1000px) {
+.mebel-sayti-sozi{
+font-size: 50px;
+color: #B1253F;
+position: relative;
+top: 20px;
+left: 20px;
+}
+}
+@media screen and (max-width: 1000px) {
+.mebel-sayti-kompyuter-rasmi{
+width: 100%;
+height: 100%;
+margin-top: 0px;
+border-radius: 0px 0px 20px 20px;
+}
+}
+@media screen and (max-width: 1000px) {
+.mebel-sayti-telefon-rasmi{
+width: 250px;
+height: 400px;
+position: relative;
+top: -460px;
+left: 600px;
+}
+}

@@ -1,0 +1,250 @@
+@font-face {
+  font-family: Fette Egyptienne;
+  src: url(Fette Egyptienne/Fette Egyptienne.otf);
+  font-weight: bold;
+}
+@font-face {
+  font-family: BlaxSlabXXL;
+  src: url(BlaxSlabXXL/BlaxSlabXXL.otf);
+  font-weight: bold;
+}
+@font-face {
+  font-family: ARIZON;
+  src: url(ARIZON/ARIZON.otf);
+  font-weight: bold;
+}
+@font-face {
+  font-family: Shrikhand;
+  src: url(SHRIKHAND/Shrikhand-Regular.otf);
+  font-weight: bold;
+}
+  @font-face {
+  font-family: marlbo;
+  src: url(marlbo/marlbo.otf);
+  font-weight: bold;
+}  
+@font-face {
+font-family: 'TeX Gyre Chorus';
+src:local('TeX Gyre Chorus') url(texgyrechorus-mediumitalic.otf) format("otf"), format('truetype');
+}
+@font-face {
+  font-family: Russo One;
+  src: url(/Russo One/Russo_One.otf);
+  font-weight: bold;
+}
+@font-face {
+  font-family: texgyreadventor-bold;
+  src: url(/texgyreadventor-bold/texgyreadventor-bold.otf);
+  font-weight: bold;
+}
+@font-face {
+  font-family: Spartan-VariableFont_wght;
+  src: url(/Spartan-VariableFont_wght/Spartan-VariableFont_wght.otf);
+  font-weight: bold;
+}
+.buyurtma-berish{
+	font-family: ARIZON;
+}
+
+.panel-vizitka{
+	font-family: texgyreadventor-bold;
+}
+.panel-bir-sahifa{
+	font-family: texgyreadventor-bold;
+}
+.panel-kompaniya{
+	font-family: texgyreadventor-bold;
+}
+.panel-internet-dokon{
+	font-family: texgyreadventor-bold;
+}
+.nomer1{
+font-family: marlbo;
+
+}
+.yakun-menyu-ssilka{
+font-family: marlbo;
+	}
+.manzil{
+font-family: marlbo;
+	
+}
+.bizning-loyihalar-soz{
+font-family: marlbo;
+	}
+	.bizning-loyihalar a{
+font-family: marlbo;
+	}
+.webdizayner{
+	font-family: marlbo;
+}
+.webdizayner-haqida{
+	font-family: marlbo;
+}
+.biz-bilan-boglan-soz{
+	font-family: BlaxSlabXXL;
+}
+
+.wordpres-sozi{
+	font-family: TeX Gyre Chorus;
+}
+.ish-qurollarimiz-soz{
+	font-family: marlbo;
+}
+.html{
+	font-family: Russo One;
+}
+.css{
+	font-family: shrikhand;
+}
+.javascript{
+	font-family: shrikhand;
+}
+
+
+@media screen and (max-width: 1000px) {
+.nomer1{
+font-family: marlbo;
+}
+}
+@media screen and (max-width: 1000px) {
+.yakun-menyu-ssilka{
+font-family: marlbo;
+	}
+	}
+	@media screen and (max-width: 1000px) {
+.manzil{
+font-family: marlbo;
+}	
+}
+@media screen and (max-width: 1000px) {
+.bizning-loyihalar-soz{
+font-family: marlbo;
+	}
+}
+@media screen and (max-width: 1000px) {
+	.bizning-loyihalar a{
+font-family: marlbo;
+	}
+}
+@media screen and (max-width: 1000px) {
+.webdizayner{
+	font-family: marlbo;
+}
+}
+@media screen and (max-width: 1000px) {
+.webdizayner-haqida{
+	font-family: marlbo;
+}
+}
+@media screen and (max-width: 1000px) {
+.biz-bilan-boglan-soz{
+	font-family: BlaxSlabXXL;
+}
+}
+@media screen and (max-width: 1000px) {
+.wordpres-sozi{
+	font-family: TeX Gyre Chorus;
+}
+}
+@media screen and (max-width: 1000px) {
+.ish-qurollarimiz-soz{
+	font-family: marlbo;
+}
+}
+@media screen and (max-width: 1000px) {
+.html{
+	font-family: Russo One;
+}
+}
+@media screen and (max-width: 1000px) {
+.css{
+	font-family: shrikhand;
+}
+}
+@media screen and (max-width: 1000px) {
+.javascript{
+	font-family: shrikhand;
+}
+}
+@media screen and (max-width: 1000px) {
+.bizning-imkoniyatlar{
+	font-family: ARIZON;
+}}
+.bizning-ishlar-kirish-soz{
+	font-family: marlbo;
+}
+.hoverlay-dcontent a {
+	font-family: Fugaz One;
+}
+.sayt-nomi{
+  font-family:Shrikhand;
+}
+.asosiy-telefon a{
+	  font-family:Shrikhand;
+	}
+	.asosiy-instagram a{
+		font-family:Shrikhand;
+	}
+	
+@media screen and (max-width: 1000px) {
+.sayt-nomi{
+	font-family: Shrikhand;
+}
+}
+@media screen and (max-width: 1000px) {
+.telefon-soz{
+	font-family: Russo One;
+}
+}
+@media screen and (max-width: 1000px) {
+.telegram-soz{
+	font-family:Russo One ;
+}
+}
+
+@media screen and (max-width: 1000px) {
+.instagram-soz{
+font-family: Russo One;
+}
+}
+@media screen and (max-width: 1000px) {
+.asosiy-telegram a{
+font-family: Shrikhand;
+}
+}
+@media screen and (max-width: 1000px) {
+.asosiy-telefon a{
+	font-family:Shrikhand;
+}
+}
+@media screen and (max-width: 1000px) {
+.asosiy-instagram a{
+	font-family: Shrikhand;
+}
+}
+.knopkalani-top-leftini-boshqarish{
+  font-family: Fugaz One;
+}
+
+@media screen and (max-width: 1000px) {
+.telegram-yozuv{
+	font-family: Shrikhand;
+}
+}
+ @media screen and (max-width: 1000px) {
+.tel-yozuv{
+		font-family: Shrikhand;
+}
+}
+ @media screen and (max-width: 1000px) {
+.instagram-yozuv{
+		font-family: Shrikhand;
+}
+}
+@media screen and (max-width: 1000px) {
+.bizning-ishlar-kirish-soz{
+	font-family: Arial black;
+}
+}
+

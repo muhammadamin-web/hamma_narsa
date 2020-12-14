@@ -1,0 +1,207 @@
+
+
+.bir-sahifali-sayt-rasm-soz{
+width: 100%;
+height: 500px;
+position: absolute;
+left: 0px;
+top: 75px;
+
+}
+.kirish-rasm{
+  width: 100%;
+  height: 500px;
+  position: absolute;
+  left: 0px;
+}
+.rasm-usti-soz{
+  z-index: 1;
+  position: absolute;
+  top: 50px;
+  font-size: 50px;
+  color: #FAFAFA;
+  text-align: center;
+}.namunalar{
+  width: 100%;
+  height: 1900px;
+  background-color: black;
+  margin-top:565px;
+  margin-left: 0px;
+  position: absolute;
+  left: 0px;
+}
+.namunalar-soz{
+  font-size: 70px;
+  color: white;
+}
+.bir-sahifa-namuna1{
+  width: 80%;
+  height: 500px;
+  position: absolute;
+  left: 10%;
+  top: 150px;
+}
+.bir-sahifa-namuna2{
+  width: 80%;
+  height: 500px;
+  position: absolute;
+  left: 10%;
+  top: 750px;
+}
+.bir-sahifa-namuna3{
+  width: 80%;
+  height: 500px;
+  position: absolute;
+  left: 10%;
+  top: 1350px;
+}
+
+.web-sahifa-tarkibi{
+width: 100%;
+height: 820px;
+background-color: #2E2E2E;
+position: absolute;
+top: 2465px;
+left: 0px;
+}
+
+
+
+
+
+
+
+
+.web-sahifa-tarkibi-soz{
+font-size: 50px;
+color: white;
+margin-top: 20px;
+font-family: arizon;
+margin-left: 10%;
+margin-right: 10%;
+}
+
+
+.tarkib-bonus-oynasi{
+width: 40%;
+height: 620px;
+margin-left: 10%;
+margin-top: 50px;
+background-color: #2E2E2E;
+border-radius: 30px;
+box-shadow: 0px 10px 60px 40px #56595B;
+}
+
+
+.nuqtalar-div{
+position: absolute;
+top: 145px;
+}
+
+.nuqtalar{
+width: 15px;
+height: 15px;
+border-radius: 50%;
+background-color: white;
+
+margin-left: 27px;
+
+margin-top: 50px;
+}
+
+
+.nuqtalar4{
+width: 15px;
+height: 15px;
+border-radius: 50%;
+background-color: white;
+
+margin-left: 27px;
+
+margin-top: 100px;
+
+}
+
+.hizmatlar-gaplar{
+font-size: 25px;
+margin: 10px 0px 0px 170px;
+margin-top: 4%;
+margin-left: 15%;
+font-family: arizon;
+color: white;
+position: all;
+top: 190px;
+
+}
+
+
+
+.ajratuvchi-chiziq{
+width: 95%;
+height: 2px;
+background-color: white;
+margin-left: 2.5%;
+margin-top:20px;
+}
+
+.bonuslar{
+margin-top: 15px;
+}
+
+.bonuslar-soz{
+font-size: 60px;
+color: white;
+font-family: marlbo;
+
+}
+
+.bonuslar-gaplar{
+font-size: 26PX;
+margin-top: 20px;
+color: white;
+
+}
+
+.sovga-ikon{
+width: 50px;
+height: 50px;
+margin-left: 15px;
+}
+
+
+
+.narxi-soz{
+	font-size: 45px;
+	color: white;
+	font-family: marlbo;
+	margin-top: 30px;
+}
+
+.bir-sahifa-narxi{
+width: 25%;
+height: 400px;
+position: absolute;
+top: 180px;
+left: 60%;
+background-color: #2E2E2E;
+border-radius: 30px;
+box-shadow: 0px 10px 60px 40px #56595B;
+}
+
+.narx-korsatilagan-oyna{
+width: 80%;
+margin-left: 10%;
+margin-top: 50px;
+border: 2px white dotted;
+height: 100px;
+}
+
+.narxi-raqam{
+font-size: 22px;
+color: white;
+text-align: center;
+}
+.yakun-sayt-haritasi{
+position: absolute;
+top: 3280px;
+}

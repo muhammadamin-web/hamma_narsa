@@ -1,0 +1,149 @@
+
+   
+
+.telegram-rasm{
+  width: 0px;
+  height: 0px;
+}
+.telegram-soz{
+font-size: 0px;
+color: #F2F2F2;
+position: absolute;
+top:12px;
+left: 30px; 
+font-style: normal;
+}
+
+.telefon-rasm{
+  width: 0px;
+  height: 0px;
+}
+.instagram-rasm{
+  width: 0px;
+  height: 0px;
+}
+.telefon-soz{
+font-size: 0px;
+color: #F2F2F2;
+position: absolute;
+top:12px;
+left: 30px; 
+font-style: normal;
+}
+.instagram-soz{
+font-size: 0px;
+color: #F2F2F2;
+position: absolute;
+top:12px;
+left: 30px; 
+font-style: normal;
+}
+.sayt-nomi{
+width: 200px;
+height: 300px;
+font-size: 40px;
+position: absolute;
+top: 0px;
+left: 0px;
+color: #B22222;
+cursor: pointer;
+text-align: center;
+
+background-color: #2E2E2E;
+} 
+
+    
+.chap-menyu-belgi{
+    color: white;
+    cursor:pointer;
+    position:absolute;
+    top:0px;
+cursor: #262626;
+}
+
+
+.bar {
+  overflow: hidden;
+  background-color: #2E2E2E;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 75px;
+  box-shadow: 1px 12px 19px 2px #464646;
+}
+  .hoverlay-dcontent  {
+   position: all;
+   left: 50%;
+top: -120px;
+    }
+.hoverlay-dcontent a {
+  margin-left: 3px;
+    padding: 15px 6px;
+    text-decoration: none;
+    font-size: 24px;
+    color: #B22222;
+    transition: 0.3s;
+        background-color: ;
+
+border-radius: 15px;
+
+       
+    }
+ .hoverlay-dcontent a:hover{
+        background-color: white;
+        color: black;
+    }
+   
+
+@media screen and (max-height: 350px) {
+  .hoverlay a {font-size: 20px}
+  .hoverlay .dclosebtn {
+    font-size: 50px;
+    top: 275px;
+    right: 91px;
+
+  }
+}
+.tillar{
+  width: 15%;
+  height: 50%;
+  background-color:#2E2E2E;
+  position: absolute;
+  left: 85.5%;
+  top: 20%;
+
+}
+.tillar-knopka{
+padding: 15px;
+background-color: #B22222;
+color: white;
+
+margin: 1% 1% 1% 0%;
+position:relative;
+top: 10px;
+text-decoration: none;
+border-radius: 50%;
+box-shadow: 1px 1px 11px 1px #303030;
+font-size: 20px
+}
+.chap-menyu-belgi{
+   
+color:#262626 ;
+
+}
+
+.tillar-knopka:hover{
+background-color: #383838;
+color: white;
+transition: 0.6s;
+  }
+
+
+
+
+
+
+
+
+  

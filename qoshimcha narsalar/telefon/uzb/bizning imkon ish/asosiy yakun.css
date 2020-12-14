@@ -1,0 +1,137 @@
+@media screen and (max-width: 1000px) {
+
+.yakun-sayt-haritasi{
+	width: 100%;
+	height: 1702px;
+	
+	background-color: black;
+position: absolute;
+top: 8450px;
+left: 0px;
+}
+}
+
+@media screen and (max-width: 1000px) {
+.kotta-sayt-nomi{
+	font-size: 60PX;
+	text-align: center;
+	color: #b22222;
+}
+}
+@media screen and (max-width: 1000px) {
+.webdizayner-haqida{
+	width: 87%;
+	height: 70%;
+	margin-left: 7.5%;
+	font-size: 57px;
+	color: #b22222;
+	position: absolute;
+top: 100px;
+}
+}
+@media screen and (max-width: 1000px) {
+.sayt-haritasi{
+margin-top: 500px;
+}
+}
+@media screen and (max-width: 1000px) {
+.menyu{
+font-size: 50px;
+color: #b22222;
+margin-left: 4%;
+}
+}
+@media screen and (max-width: 1000px) {
+.menyu-ssilkalari-oynasi{
+	width: 28%;
+	height: auto;
+	
+	margin-left: 1%;
+	margin-top: 2%;
+}
+}
+@media screen and (max-width: 1000px) {
+.yakun-menyu-ssilka{
+	color: #b22222;
+	font-size: 60px;
+	text-decoration: none;
+	width: 200%;
+	margin-left: 1%;
+	display: block;
+	text-align: left;
+	height: 80px;
+
+}
+}
+
+
+@media screen and (max-width: 1000px) {
+.bizning-loyihalar{
+position: absolute;
+left: 36%;	
+top: 580px;
+
+width: 64%;
+height: 300px;
+}
+}
+@media screen and (max-width: 1000px) {
+.bizning-loyihalar-soz{
+font-size: 60px;
+color: #b22222;
+margin-top: 0px;
+}
+}
+@media screen and (max-width: 1000px) {
+.bizning-loyihalar a{
+text-decoration: none;
+color: #b22222;
+font-size: 55px;
+margin-top: 10px;
+display: block;
+	}
+}
+@media screen and (max-width: 1000px) {
+.biz-bilan-boglanish{
+	width: 80%;
+	height: 500px;
+	background-color: #191919;
+	
+	position: absolute;
+	top: 1200px;
+	right: 10%;
+}
+}
+@media screen and (max-width: 1000px) {
+.biz-bilan-boglan-soz{
+	font-size: 57px;
+	margin-left: 2.5%;
+	color: #CFCFCF;
+	margin-top: 5%;
+}
+}
+@media screen and (max-width: 1000px) {
+.webdizayner{
+	font-size: 59px;
+		color: #CFCFCF;
+		margin-left: 2%;
+		margin-top: 10%;
+
+}
+}
+@media screen and (max-width: 1000px) {
+.manzil{
+	font-size: 57px;
+	color: #CFCFCF;
+	margin-top: 10px;
+	margin-left: 15px;
+}
+}
+@media screen and (max-width: 1000px) {
+.nomer1{
+	font-size: 60px;
+	color: #CFCFCF;
+	margin-top: 10px;
+	margin-left: 15px;
+}
+}

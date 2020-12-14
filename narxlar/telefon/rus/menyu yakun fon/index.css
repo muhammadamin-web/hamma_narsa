@@ -1,0 +1,370 @@
+
+
+@media screen and (max-width: 1000px) {
+.sweets-knopka{
+  font-size: 30px;
+  padding: 30px 20px;
+  background-color: #B22222;
+  text-decoration: none;
+ position: absolute;
+ top: 3000px;
+ color: white;
+}}
+@media screen and (max-width: 1000px) {
+.fon-rasmlar{
+  width: 100%;
+  height: 1820px;
+  position: absolute;
+  left: 0px;
+    top: 0px;
+}
+ } 
+@media screen and (max-width: 1000px) {
+    .hoverlay {
+    height: 100%;
+    width: 0%;
+    position:fixed;
+    z-index: 1;
+    top: 0%;
+ left: -30%;
+    background-color: #262626;
+
+    overflow-x:hidden; ;
+    transition: 0.7s;
+
+}
+}
+ 
+.knopkalani-top-leftini-boshqarish{
+  font-family: Fugaz One;
+  position: relative;
+  left: 28%;
+top: 2px;
+}
+    @media screen and (max-width: 1000px) {
+.knopkalani-top-leftini-boshqarish{
+  font-size: 5em;
+  position: relative;
+  left:40%;
+top: 100px;
+}}
+
+
+.knopkalani-top-leftini-boshqarish:hover .overlay {
+  transform: scale(1)
+}
+
+
+
+.kirish-oyna{
+  width: 100%;
+  height: 600px;
+  background-color: black;
+  position: absolute;
+  top: 175px;
+  left: 0px;
+
+}
+@media screen and (max-width: 1000px) {
+.kirish-oyna{
+  width: 100%;
+  height: 600px;
+background-color:black;
+  position: absolute;
+  top: 1755px;
+  left: 0px;
+
+}}
+
+@media screen and (max-width: 1000px) {
+.q{
+ width: 100%;
+  height: 300px;
+margin-top: 700px;
+margin-left: 0px;
+  background-color: grey;
+  position: absolute;
+  left: 0px;
+  top: 1500px;
+}
+}
+#hammasi{
+  transition: 0.7s;
+}
+#almashuvchi-fon{
+  transition: 0.7s;
+}
+
+@media screen and (max-width: 1000px) {
+#hammasi{
+  width: 100%;
+  
+background-color: grey;
+
+}}
+
+@media screen and (max-width: 1000px) {
+
+.tillar{
+  width: 37%;
+  height: 50%;
+  background-color:#2E2E2E;
+  position: absolute;
+
+ left: 726px;
+  top: 30%;
+
+}}
+@media screen and (max-width: 1000px) {
+
+.tillar-knopka{
+padding: 9px 9px 9px 9px;
+background-color: #5E5E5E;
+color: #B22222;
+font-size: 45px;
+margin: 0% 0.1% 0% 0%;
+position:relative;
+top: 12px;
+left: 4px;
+text-decoration: none;
+border-radius: 50%;
+}}
+@media screen and (max-width: 1000px) {
+#hammasi{
+  width: 100%;
+  
+background-color: grey;
+
+}}
+
+
+
+
+
+@media screen and (max-width: 1000px) {
+.eoverlay .eclosebtn {
+    position: absolute;
+    top: 100px;
+    left: 0%;
+    font-size: 100px;
+    color: white;
+    width: 00px;
+    height: 00px;
+    background-color: grey;
+}
+}
+   @media screen and (max-width: 1000px) {
+.telegram-div{
+width: 50%;
+height: 80px;
+background-color: #383838;
+position: absolute;
+right: 12.5%;
+top: -190px;
+border-radius: 15px;
+cursor: pointer;
+}
+}
+ @media screen and (max-width: 1000px) {
+.telegram-rasm{
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 13px;
+}
+}
+ @media screen and (max-width: 1000px) {
+.telegram-soz{
+font-size: 95%;
+color: #919191;
+position: absolute;
+top:37%;
+left: 60px; 
+
+}}
+ @media screen and (max-width: 1000px) {
+.asosiy-telegram{
+width: 80%;
+height: 450px;
+background: linear-gradient(90deg,#1E94C7,#197CA6);
+margin-left: 10%;
+margin-top: -20px;
+border-radius: 15px;
+box-shadow: 0px 0px 6px 4px #1E96C8;
+opacity: 0.9;
+}
+}
+.telegram-canal{
+  width: 150px;
+  height: 100px;
+  background-color: black;
+  margin-left: 40px;
+}
+@media screen and (max-width: 1000px) {
+.telegram-yozuv{
+font-size: 65px;
+color: #DCE4EA;
+
+}
+}
+
+ @media screen and (max-width: 1000px) {
+.kanalga-otish-rasm{
+width: 70px;
+height: 70px;
+border-radius: 50%;
+opacity: 0.8;
+float: right;
+}
+}
+.asosiy-telegram a:hover{
+  background-color: #18698C;
+}
+
+
+
+
+
+
+
+   @media screen and (max-width: 1000px) {
+.telefon-div{
+width: 50%;
+height: 72px;
+background-color: #383838;
+position: absolute;
+right: 12%;
+top: -95px;
+border-radius: 13px;
+}
+}
+ @media screen and (max-width: 1000px) {
+.telefon-rasm{
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 11px;
+  border-radius: 50%;
+}
+}
+ @media screen and (max-width: 1000px) {
+.telefon-soz{
+font-size: 95%;
+color: #919191;
+position: absolute;
+top:23px;
+left: 58px; 
+
+}}
+@media screen and (max-width: 1000px) {
+.asosiy-telefon{
+width: 80%;
+height: 400px;
+background: linear-gradient(60deg,#43B0EF,#1B759C,#1B9C6F);
+margin-left: 10%;
+margin-top: -20px;
+border-radius: 15px;
+box-shadow: 0px 0px 6px 4px#FFFFFF;
+opacity: 0.9;
+text-align: center;
+}
+}
+ 
+.asosiy-telefon a:hover{
+  background-color: #3FAC1E;
+}
+   @media screen and (max-width: 1000px) {
+.tel-yozuv{
+font-size: 65px;
+color: #3E3E3E;
+
+
+}}
+   @media screen and (max-width: 1000px) {
+.qongiroq-qilish-rasm{
+width: 80px;
+height: 80px;
+border-radius: 50%;
+opacity: 0.8;
+float: right;
+}
+}
+
+
+
+
+   
+
+
+
+
+
+   @media screen and (max-width: 1000px) {
+.instagram-div{
+width: 50%;
+height: 80px;
+background-color: #383838;
+position: absolute;
+right: 12%;
+top: -10px;
+border-radius: 13px;
+}
+}
+
+
+ @media screen and (max-width: 1000px) {
+.instagram-soz{
+font-size: 90%;
+color: #919191;
+position: absolute;
+top:24px;
+left: 12%; 
+
+}}
+@media screen and (max-width: 1000px) {
+.instagram-rasm{
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 13px;
+  border-radius: 50%;
+}
+}
+@media screen and (max-width: 1000px) {
+.asosiy-instagram{
+width: 80%;
+height: 400px;
+
+margin-left: 10%;
+margin-top: -20px;
+border-radius: 15px;
+box-shadow: 0px 0px 6px 4px #994747;
+opacity: 0.9;
+background: linear-gradient(90deg, #EA1A17, #EA5317);
+}
+}
+@media screen and (max-width: 1000px) {
+.instagram-yozuv{
+font-size: 65px;
+color: white;
+
+opacity: 0.8;
+}}
+
+@media screen and (max-width: 1000px) {
+.instagram-sahifaga-otish-rasm{
+width: 50px;
+height: 50px;
+border-radius: 50%;
+opacity: 0.8;
+float: right;
+}
+}
+
+.asosiy-instagram a:hover{
+  background-color: #FF00AE;
+}
+
+
+
+

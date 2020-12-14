@@ -1,0 +1,65 @@
+
+.mijozlar-fikri-kirish-soz{
+font-size: 60px;
+color: #AD2121;
+text-align: center;
+}
+.mijozlar-fikri{
+	width: 100%;
+	height: 600px;
+	position: absolute;
+	top:5100px;
+	left: 0px;
+	background-color: #191919; 
+}
+.mijoz-minnatdor{
+	font-size: 22px;
+	font-family: b;
+	text-anchor: 10px;
+	font-style: italic;
+}
+
+.tab {
+    float: left;
+    border: 2.8px solid #AD2121;
+    background-color: #2E2E2E;
+    width: 35%;
+    height: 210px;
+    color: white;
+    border-right: none;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+    display: block;
+    background-color: inherit;
+    color: white;
+    padding: 22px 6px;
+    width: 100%;
+    border: 0.5px solid #AD2121;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 20px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+    background-color: #464646;
+}
+
+/* Create an active/current "tab button" class */
+.tab button.active {
+    background-color: #4E4E4E;
+}
+
+/* Style the tab content */
+.tabcontent {
+    float: left;
+    padding: 0px 12px;
+    width: 64%;
+    border: 5px double #b22222;
+    height: auto;
+    color: #F0D9FF;
+}
